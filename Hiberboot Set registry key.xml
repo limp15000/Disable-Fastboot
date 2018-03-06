@@ -1,0 +1,71 @@
+﻿<LabTech_Expansion
+	Version="120.291"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6334</ScriptId>
+				<FolderId>220</FolderId>
+				<ScriptName>Hiberboot Set registry key</ScriptName>
+				<ScriptNotes>This script will disable fastboot 
+</ScriptNotes>
+				<Permission>1,2,4,5,</Permission>
+				<EditPermission>1,4,5,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>1</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAFWPwQrCMBBE74L/kA9oyaY1TS1LLla8KIiKntNmDzmYlrQF+/faolAvM+wMb2Hw6GryHZWmNxpvY0taIJ8dL4PfNYPvKWhAvrhw/2pdmBjSD7KeOmvGiJVU07OiwEBFLAEhWFKkUEDOzifkCwavdXBtf6fQucZPz/+Db38YnNXWWJWnGxmDyZJYCMrjbfYRAAkyq5SSwvz4GUC+nLRevQF1k/PD4gAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEANWVzUrEMBDH74Lv0IvH0ia2aVdKQXR1RReFiiD0kmxGCXSTJU39eCSfwxczqVntLu4eFBEv6fxnkunMr0NaVDMtFuaYGlru7gRB8a7bXlg5fjKauuiJgIa3QbQMXFFN52BAD3ynjWK0GTjek93YTULJEuERIWmWp3ERrUZWtp92gpec8izfT9IwpgSHCEEejohd4jiNU8KyLEV0maU/0BcfDav36SoDi492Dmemr6SIvOX9J53s9Rl3sYEadovWusdren9NJ2s6HYBR2pQOg3t635GSRsgOnP/D9rHL9kLMRX9kafrImeQgDe2bsdGhHCL5pLAFC96CBWebuZST84tpXd1W1+NpfdRpbUtwHWjVVGBqb9YVtO5rB1Mq6T3o+ko9gj6YCAaaKWXGkrIGeBH5pCuoXW/eWkHuavbWL6NH2d+xH21hf/z60lIbeuhfHEyemRY8qBqARcCVhK95/nB00X8a3Tzegg/IXc5HCQ8pBhwm3C4MIR4SgmlCYnsFMbZhJPdmar7o7BUo+N6G6UTfmk78B3SX2v8J3gDntr3lGAYAAA==</ScriptData>
+				<ScriptVersion>1296657850</ScriptVersion>
+				<ScriptGuid>dad78345-0a62-11e8-96e8-005056b7751a</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>607</ID>
+					<Form>1</Form>
+					<Name>Hiberboot disabled</Name>
+					<Sort>0</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>1</FType>
+					<Section>Kyos</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill>Fast startup / Hybrid sleep disabled</Fill>
+					<LtGuid>e6f8d94d-a2e2-4de2-b11d-662a460345bb</LtGuid>
+					<IsPassword>false</IsPassword>
+					<IsEncrypted>false</IsEncrypted>
+					<IsHidden>false</IsHidden>
+					<IsRestricted>false</IsRestricted>
+					<ViewPermissions></ViewPermissions>
+					<EditPermissions></EditPermissions>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>220</FolderID>
+					<ParentID>190</ParentID>
+					<Name>Automation</Name>
+					<GUID>377d458a-855f-478d-bf6d-a29425af61fc</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Kyos</Name>
+					<GUID>8dbcd6db-d1b5-42e5-bd60-ab72156bee02</GUID>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
